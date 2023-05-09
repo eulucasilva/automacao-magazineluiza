@@ -53,6 +53,7 @@
 
 - Baixar as dependências do Maven no projeto (caso nao baixa automaticamente ao importar o projeto);
 - Localizar a classe java RunnerTest em <i>src/test/java/runners</i>;
+- Baixar o chromedriver compatível com a versão do navegador a ser utilizado e substituir na raiz do projeto
 - Clicar no ícone PLAY para executar o projeto de testes.
 
 
