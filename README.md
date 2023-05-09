@@ -67,5 +67,5 @@
 
 # Autor
 
-| [<img src="https://avatars.githubusercontent.com/u/17802288?v=4" width=115><br><sub>Lucas dos Santos Silva</sub>](https://github.com/eulucasilva) | 
+| [<img src="https://avatars.githubusercontent.com/u/17802288?v=4" width=115><br><sub>Lucas dos Santos Silva</sub>](https://www.linkedin.com/in/eulucasilva/) | 
 |:-------------------------------------------------------------------------------------------------------------------------------------------------:|
