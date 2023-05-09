@@ -8,6 +8,7 @@
 :small_blue_diamond: [Pré-requisitos](#pré-requisitos) </br>
 :small_blue_diamond: [Executando o projeto](#executando-o-projeto) </br>
 :small_blue_diamond: [Relatório](#relatório-de-execução-dos-cenários) </br>
+:small_blue_diamond: [Relatório](#bônus) </br>
 
 
 ## Descrição
@@ -61,7 +62,7 @@
 
 ## Bônus
 
-<p>Há, na raiz do projeto, um arquivo de texto com uma possível melhoria identificada para desenvolver o usabilidade do sistema </p>
+<p>Há, na raiz do projeto, um arquivo de texto com uma possível melhoria identificada. </p>
 
 # Autor
 
